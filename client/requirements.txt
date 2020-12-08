@@ -1,0 +1,10 @@
+playsound
+pygame
+pydub
+moviepy
+FFmpeg
+ffmpy3
+numpy==1.17.4
+opencv-python==4.1.2.30
+Pillow==6.2.1
+Pillow-PIL==0.1.dev0
